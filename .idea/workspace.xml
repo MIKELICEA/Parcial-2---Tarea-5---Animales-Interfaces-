@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="903e8918-edb7-49e6-8505-3fb7778a7739" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Animales-In.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Aguila.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/animales/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/AnimalQueCamina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/AnimalQueNada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/AnimalQueVuela.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Ave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Condor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/animales/Condor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Gorrion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Halcon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Mamifero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Pato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Perro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Pez.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Raton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Salmon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/animales/Salmon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Sardina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Tilapia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/parcial2/animales/Tilapia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Tortuga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/opp/parcial2/animales/Trucha.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +50,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/migue/OneDrive/Documentos/5to Semestre UASLP/Tecnologia Orientada a Objetos/Animales-In",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664455194429</updated>
-      <workItem from="1664455195981" duration="496000" />
+      <workItem from="1664455195981" duration="1658000" />
+      <workItem from="1664504261764" duration="1518000" />
     </task>
     <servers />
   </component>
